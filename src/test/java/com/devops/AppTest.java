@@ -8,6 +8,6 @@ class AppTest {
     @Test
     void testAddition() {
         int result = 2 + 3;
-        assertEquals(5, result);
+        assertEquals(10, result);
     }
 }
